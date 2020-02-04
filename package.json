@@ -1,0 +1,8 @@
+{
+	"name": "@ole/prettier-config",
+	"version": "1.0.0",
+	"description": "Shared prettier config.",
+	"main": "index.json",
+	"author": "Ole Michelsen <ole@michelsen.dk>",
+	"license": "MIT"
+}
